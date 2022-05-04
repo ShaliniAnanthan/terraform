@@ -1,0 +1,5 @@
+machine_type = "e2-small"
+project = "gcp-terraform-test-348811"
+region = "us-west1"
+zone = "us-west1-a"
+json = "gcp-terraformtest.json"
