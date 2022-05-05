@@ -1,9 +1,9 @@
 variable "gcp_auth_file" {
 	type = map(string)
     default ={
-        default = "gcpaccounts.json"
-        dev = "gcp-terraformdev.json"
-        test = "gcp-terraformtest.json"
+        default = "addthe json file "
+        dev = "addthe json file "
+        test =  "addthe json file "
     }
 }
 
