@@ -1,0 +1,45 @@
+   15  sudo su tomcat
+   16  pwd
+   17   ls -lrt
+   18  cd binaries
+   19   ls -lrt
+   20  cd ..
+   21  cd apps
+   22   ls -lrt
+   23  cd tomcat
+   24  ls -lrt
+   25  pwd
+   26  cd apache-tomcat-7.0.70
+   27  ls -lrt
+   28  ls -lrt
+   29  cd  bin
+   30   ls -lrt
+   31  ./startup.sh
+   32  netstat -na | grep 8080
+   33  df -hk
+   34  exit
+   35  history
+yum install tomcat
+how to copy a file 
+ scp -r sr57474@nus740pm.in.telstra.com.au:/apps/bss/gokul/stunnel /apps .
+ to open a folder mkdir comand
+ 
+Goto  nus740pm
+Give cd~
+Type ssh -i tcp-aws0006-apse2-ec2-rbs4ds-svt-keypair.pem ec2-user@10.56.157.246
+svt-10.56.157.246
+preprod key path-
+/tmp/plsql/war/AT_WAR 
+chmod 400 tcp-aws0006-apse2-ec2-rbs4ds-prod-keypair.pem
+sr57474@nus740pm:/tmp/plsql/war/AT_WAR>ssh -i tcp-aws0006-apse2-ec2-rbs4ds-prod-keypair.pem ec2-user@10.56.156.31
+ps -ef |grep stunnel
+tail -f stunnel.log
+kill -9 
+
+
+
+
+
+
+ 
+

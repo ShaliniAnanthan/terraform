@@ -1,0 +1,68 @@
+
+
+msp -->  https://pmo.services.accenture.com/PWA2013/
+
+ 
+
+
+telstra link vpn:
+https://rna.v.nsa.nexus.telstra.com.au/dana/home/index.cgi 
+ 
+
+
+nus740pm server 
+userid:
+d277220
+Deivast1@
+
+volume link:
+http://nus565pc.in.telstra.com.au:8805/
+Username: CCBTIBCO
+Pwd: @Tibco21 
+csr link
+https://cryptoreport.websecurity.symantec.com/checker/views/csrCheck.jsp 
+ non prod link:
+http://www.in.telstra.com.au/ism/TelstraPKI/applyfortelstrarsasslcertificate05.asp
+prod:
+http://www.in.telstra.com.au/ism/telstrapki/applyfortelstrarsasslcertificate06.asp
+
+call
+0008006101120  (Account: 8264 3805 6214) 
+
+
+
+ 
+rtc access 3rd link
+https://ideazz-rtc.in.telstra.com.au:9443/ccm/admin#action=com.ibm.team.repository.viewUserProfile&itemId=_E_FWkDK9Eeav_eQ56-gq7Q
+rtc gmt revathy details
+d755243
+himalions@25
+
+
+
+tacbus monitoring link:
+ 
+('Assigned Group*+'="ACCTACBASSUPP") and ('Status*'="Assigned" or 'Status*'="In Progress" OR 'Status*'="Pending") 
+AND NOT('Status*' = "Pending" AND 'Status_Reason_Hidden' = "Infrastructure Change")  AND  ( 'Service Type*'  != "User Service Request" ) 
+ and ('Destination System Reference' = null)
+
+('Assigned Group*+'="ACCNOESUPP") and ('Status*'="Assigned" or 'Status*'="In Progress" 
+OR 'Status*'="Pending") AND NOT('Status*' = "Pending" AND 'Status_Reason_Hidden' = "Infrastructure Change")  
+AND  ( 'Service Type*'  != "User Service Request" )  and ('Destination System Reference' = null)  
+('Assigned Group*+'="ACCNOESUPP") and ('Status*'="Assigned" or 'Status*'="In Progress" OR 'Status*'="Pending") AND NOT('Status*' = "Pending" AND 'Status_Reason_Hidden' = "Infrastructure Change")  AND  ( 'Service Type*'  != "User Service Request" )  and ('Destination System Reference' = null) 
+ 
+to install tomcat
+yum install tomcat(login as root)
+
+certificate details:
+
+A46055541-21 0019
+
+Abeysinghe, Dinithi <Dinithi.Abeysinghe@team.telstra.com>
+90067895
+42940041
+0418 757 117 
+Telstra.RetailBilling.DOTS@accenture.com 
+ 
+RBS4DS
+ssh -t sr55870@nus595j bash 
