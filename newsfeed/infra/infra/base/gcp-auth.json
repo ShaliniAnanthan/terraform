@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "swift-firmament-358410",
+  "private_key_id": "d2e323257ce38f4284dffeae04f150968d067585",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCz6LCbrNYTwCTT\nvSEHRscRPaUrvvoOv6T+QeEKlur6O6LznGznOArQVGYCx3g7ZApY1hm9VbXNW6L4\n6NRfFkjN8nAns01oHo3UXNHYXIzI/V3t7DKoxyr7G57KL4z/F2Wmn8YsPnbZ0P1k\nYAzxiphnLd7vJ2k9v8Z+PxbblH8YosGDKr3sN+OZBKd7fvVj/nY7cU+rUNOKH/26\n5SYFrby2CMlcGo2iisue1iodt0tOYzhQcruGtFmMWh/MWpQjvXXBkw48FaynIp9P\nZMHc16WsPEZV87EBqxvNfXKyivFr3TLT6hByexULLgLy3qcJIDzBbfLItT3egIG9\nrM7zEq7tAgMBAAECggEATyZJgIu2+SR470CPRdTBIpgk0QyplZCBxax1FcQUp7dR\n9uw0SzswIrxmzsUz46kdFj1HQLFzFOBCYFCKkjTLHfQRnJ25Kdv7WNjnJ1F8TLaP\nOuvF09Qf2C6sGtZ1qQqBmZ9EP9XRUv2rZRwOxbtMVmRrZnrHxbdX29XkuADqM4s1\n7TruzDACcMgoKxR1BOnqObuxPq4eCzYak8XuWXHsIaDMe2Mf0OTFYTQVL3GFP1fN\njZmGtRzW9wgofR3zux0BEYpgO/B0Lb5H2juXg/V48jz7C6656Yua5jvJ4Nb0X8fE\nUFPWwuqxdcUy0sNMzPJ+g4DYdHmeQwTcPJ25BY8VrwKBgQDlARy0Wsp20wU2UK32\nc1ZDep9mv9CKD2HcHMOKa05wclJ1QoTy86Drv7nHkFM11CAMqAnRoMAzEr5+1xGx\nlz7UGy03p1Y1xsIKQb0A0NN2O59HmmAeBSMfuqUiNOXbOz8ZctbyGskroEaWvXtg\nNAIoAXnfIorckrXEAYFtVTATswKBgQDJHfpYAwaBHMG/Z97uLGhwF3BBe7wx+WO7\npR1LyZr9aAgnuwcmXGx1QjwjBPKR/v39411j/qrpiTqs/bKtk684LXEDpt41+YE8\n5Rn/DVSdilqPkoAaGki8jRnUokWNdk1YUPQoOPPJA7U6x7yzHM/PSlqjDse5j0d2\n/QjORz1i3wKBgQCP0+/8Ul2A3a4TW/62n9/ZB8Xfma9XVqvmu+YQJK8iLpsdbIbl\ntCAokMUU0s+AKldqu4tXLrgoG6irL1a8jDp4qwzuPFoH8mpiWMFlJsL5Kh8ysIGX\nuTBDOE2Iu2J2G7LYv+jCLBKXJNXQzPcVB/UmvS6W9zHxsO8aSLvKOEu2wwKBgBvJ\nn5BPgrOOJJrsoBmqWxe5tVHm5b7F5WjEzIJvLZH7sLzEk51SQc4Fw8dW5KkVYUSW\nCI5LXpP72PaT6v8em6QYazgE80jj215tjST3U4yc1BxoMnjozsn2eO4vKYr9IHym\nWsW/8LcCYyTm+gSJY5ERhepnnWLfEBG5rmDJ6QpjAoGAJUuxazw/4l3xZPSz8xRS\noLzJYkbC17mKv+8p0Z7oakqkwU7IPmexuJyskMf1j2k6Mkoq/T4Kd1WA1eGNH09f\nasMqNuvg5chMuD8GJmjOKr3yPz4MCmZUVH9BWW+scOWyygf9MwxozKs0dFWIeWAy\n7RjrLbYwziddR4iFttL1/dM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "demo-service-account@swift-firmament-358410.iam.gserviceaccount.com",
+  "client_id": "117039303997442934633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-service-account%40swift-firmament-358410.iam.gserviceaccount.com"
+}
